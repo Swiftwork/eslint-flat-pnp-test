@@ -1,0 +1,7 @@
+{
+  "name": "eslint-flat-pnp-test",
+  "packageManager": "yarn@3.6.3",
+  "devDependencies": {
+    "eslint": "^8.50.0"
+  }
+}
